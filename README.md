@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Cryptozon](https://github.com/2202-Capstone/cryptozon-new)
 
-- 💬 Ask me about **React,**
-
 - 📫 How to reach me **Elan.Savinon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
