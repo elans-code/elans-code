@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elan S</h1>
-<h3 align="center">Veteran and passionate software engineer.</h3>
+<h3 align="center">Passionate software engineer and Veteran</h3>
 
 - 🔭 I’m currently working on [Cryptozon](https://github.com/2202-Capstone/cryptozon-new)
 
